@@ -6,6 +6,8 @@
 <!-- badges: start -->
 
 [![R-CMD-check](https://github.com/Alfie0925/mypackage.10.31.new/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/Alfie0925/mypackage.10.31.new/actions/workflows/R-CMD-check.yaml)
+[![Codecov test
+coverage](https://codecov.io/gh/Alfie0925/mypackage.10.31.new/graph/badge.svg)](https://app.codecov.io/gh/Alfie0925/mypackage.10.31.new)
 <!-- badges: end -->
 
 The goal of mypackage.10.31.new is to …
