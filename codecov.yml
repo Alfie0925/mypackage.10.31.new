@@ -1,17 +1,17 @@
 codecov:
- token: 69233363-1e78-4201-bdc0-b9be77813b18
+  token: 69233363-1e78-4201-bdc0-b9be77813b18
 
-comment: false
+  comment: false
 
-coverage:
-  status:
-    project:
-      default:
-        target: auto
-        threshold: 1%
-        informational: true
-    patch:
-      default:
-        target: auto
-        threshold: 1%
-        informational: true
+  coverage:
+    status:
+      project:
+        default:
+          target: auto
+          threshold: 1%
+          informational: true
+      patch:
+        default:
+          target: auto
+          threshold: 1%
+          informational: true
